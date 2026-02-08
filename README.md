@@ -1,4 +1,10 @@
+### 📄 Project Summary
+This repository contains an exploratory data analysis (EDA) project that examines student academic performance using Python. The notebook focuses on understanding the dataset structure, analyzing demographic and educational factors, and exploring relationships between student characteristics and exam scores through statistical analysis and data visualization.
+
 # Student Performance Exploratory Data Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Aya_Ibrahim_Al_Sayed1.ipynb)
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a student performance dataset using **Python**.  
@@ -54,4 +60,4 @@ The dataset used is **StudentsPerformance.csv**, which contains information abou
 ### Option 1: Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
